@@ -1,0 +1,28 @@
+#define WIN32
+#ifndef WIN32
+#include "/home/aaron/Arduino/SRdisplay5/fonts/supercd_cp8658x8.h"
+#include "/home/aaron/Arduino/SRdisplay5/fonts/supercd_default8x9.h"
+#include "/home/aaron/Arduino/SRdisplay5/fonts/supercd_drdos8x6.h"
+#include "/home/aaron/Arduino/SRdisplay5/fonts/supercd_drdos8x8.h"
+#include "/home/aaron/Arduino/SRdisplay5/fonts/supercd_gr737b9x16medieval.h"
+#include "/home/aaron/Arduino/SRdisplay5/fonts/supercd_gr9288x16thin.h"
+#include "/home/aaron/Arduino/SRdisplay5/fonts/supercd_iso0112x22.h"
+#include "/home/aaron/Arduino/SRdisplay5/fonts/supercd_lat416.h"
+#include "/home/aaron/Arduino/SRdisplay5/fonts/supercd_latgrkcyr12.h"
+#include "/home/aaron/Arduino/SRdisplay5/fonts/supercd_unknown.h"
+#include "/home/aaron/Arduino/SRdisplay5/supercd_cyr.h"
+#include "/home/aaron/Arduino/SRdisplay5/supercd_terminus.h"
+#else
+#include "C:/Users/Aaron/Desktop/programs/Cygwin/32/home/Aaron/SRdisplay5/fonts/supercd_cp8658x8.h"
+#include "C:/Users/Aaron/Desktop/programs/Cygwin/32/home/Aaron/SRdisplay5/fonts/supercd_default8x9.h"
+#include "C:/Users/Aaron/Desktop/programs/Cygwin/32/home/Aaron/SRdisplay5/fonts/supercd_drdos8x6.h"
+#include "C:/Users/Aaron/Desktop/programs/Cygwin/32/home/Aaron/SRdisplay5/fonts/supercd_drdos8x8.h"
+#include "C:/Users/Aaron/Desktop/programs/Cygwin/32/home/Aaron/SRdisplay5/fonts/supercd_gr737b9x16medieval.h"
+#include "C:/Users/Aaron/Desktop/programs/Cygwin/32/home/Aaron/SRdisplay5/fonts/supercd_gr9288x16thin.h"
+#include "C:/Users/Aaron/Desktop/programs/Cygwin/32/home/Aaron/SRdisplay5/fonts/supercd_iso0112x22.h"
+#include "C:/Users/Aaron/Desktop/programs/Cygwin/32/home/Aaron/SRdisplay5/fonts/supercd_lat416.h"
+#include "C:/Users/Aaron/Desktop/programs/Cygwin/32/home/Aaron/SRdisplay5/fonts/supercd_latgrkcyr12.h"
+#include "C:/Users/Aaron/Desktop/programs/Cygwin/32/home/Aaron/SRdisplay5/fonts/supercd_unknown.h"
+#include "C:/Users/Aaron/Desktop/programs/Cygwin/32/home/Aaron/SRdisplay5/supercd_cyr.h"
+#include "C:/Users/Aaron/Desktop/programs/Cygwin/32/home/Aaron/SRdisplay5/supercd_terminus.h"
+#endif
